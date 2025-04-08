@@ -10,6 +10,7 @@
     font-family: 'Poppins', sans-serif;
     color: var(--text-dark);
     background-color: var(--white);
+    overflow-x: auto;
   }
   
   .container {
